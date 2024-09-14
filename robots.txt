@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://komzli.github.io/QBD/sitemap.QBD.gz
